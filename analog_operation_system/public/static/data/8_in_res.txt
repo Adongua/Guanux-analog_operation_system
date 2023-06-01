@@ -1,0 +1,2 @@
+PATH:D:/phpstudy_pro/WWW/analog_operation_system/public/static/data/8_in_res.txt
+RES:1

@@ -1,0 +1,4 @@
+fat:
+124,255,255,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+totalFiles:
+{"root":{"filename":"root","filetype":"","fileattr":3,"startnum":2,"size":1,"isOnlyRead":false,"isHide":false,"fa":null,"filecontent":"","subfile":{}},"test":{"filename":"test","filetype":"","fileattr":3,"startnum":3,"size":1,"isOnlyRead":false,"isHide":false,"fa":{"filename":"root","filetype":"","fileattr":3,"startnum":2,"size":1,"isOnlyRead":false,"isHide":false,"fa":null,"filecontent":"","subfile":{}},"filecontent":"","subfile":{}}}
